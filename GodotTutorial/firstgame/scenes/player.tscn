@@ -180,7 +180,7 @@ script = ExtResource("1_myilv")
 position = Vector2(0.298343, -4.89796)
 scale = Vector2(0.462707, 0.399235)
 sprite_frames = SubResource("SpriteFrames_tfy46")
-animation = &"Jump"
+animation = &"idle"
 autoplay = "idle"
 flip_h = true
 
